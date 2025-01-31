@@ -1,3 +1,3 @@
-# this is the main header of the project (repository) "test"
+# this is the main header of the repository "test"
 
 Some discription about the project!
